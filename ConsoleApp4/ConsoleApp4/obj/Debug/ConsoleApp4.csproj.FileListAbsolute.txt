@@ -1,0 +1,7 @@
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\ИГРОВОЙ ПК\Desktop\с\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
